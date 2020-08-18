@@ -1,0 +1,1 @@
+Program will show the list of different products by their category, allow adding new products and get the sum of all of them.
